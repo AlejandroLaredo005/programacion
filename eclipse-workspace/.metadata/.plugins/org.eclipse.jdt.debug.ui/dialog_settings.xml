@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="expressionHistory">
+		<item key="expressionHistoryEntry_0" value="10.0"/>
+		<item key="expressionHistoryEntryCount" value="2"/>
+		<item key="expressionHistoryEntry_1" value="12.0"/>
+	</section>
+	<section name="conditionHistory">
+		<item key="conditionHistoryEntry_0" value="n1&gt;5"/>
+		<item key="conditionHistoryEntryCount" value="1"/>
+	</section>
+</section>
